@@ -20,7 +20,7 @@
     </head>
      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container-fluid">
-            <a href= "https://www.facebook.com/nguyetcan.tran.357/" class="navbar-brand">
+            <a href= " class="navbar-brand">
             <img src="../images/logo.jpg" alt="" width="100px" height="100px">
             </a>
             <!-- thiết kế logo để quay lại trang chủ dùng "index.php"-->
